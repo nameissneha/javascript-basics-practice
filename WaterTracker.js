@@ -1,6 +1,6 @@
 //5) Water Tracker Logic (App-style messages)
 
-let totalWater =5000;
+let totalWater =10000;
 let goalWater = 2000;
 
 if (totalWater >= goalWater) {
